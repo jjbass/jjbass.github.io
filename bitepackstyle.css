@@ -1,0 +1,25 @@
+body{
+	background-image: url("bitebag.jpg");
+	background-size: cover;
+	display:flex;
+	font-family: "merriweather";
+	color: white;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+
+}
+
+.btn-secondary{
+	background-color: black;
+	justify-content: center;
+
+}
+
+.btn-secondary:hover{
+	background-color: #4C4C50;
+}
+
+.slogan{
+	font-size: 2em;
+}
